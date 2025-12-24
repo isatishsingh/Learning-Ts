@@ -1,1 +1,1 @@
-{"root":["./index.d.ts","./src/index.ts","./src/tsinterface.ts","./src/tsobject.ts"],"version":"5.9.3"}
+{"root":["./index.d.ts","./src/partial.ts","./src/array.ts","./src/diff.ts","./src/index.ts","./src/readonly.ts","./src/recordsandmap.ts","./src/tsimplementinterface.ts","./src/tsinheritinterface.ts","./src/tsinterface.ts","./src/tsobject.ts"],"version":"5.9.3"}
